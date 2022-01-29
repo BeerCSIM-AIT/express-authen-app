@@ -23,7 +23,7 @@ app.use("/user", userRoute);
 
 // Routing Table
 app.get("/",(req, res)=>{
-    res.send("Hello from index hahahaha");
+    res.send("Hello from index hahahaha hohohoho");
 });
 
 app.get("/login",(req, res)=>{
